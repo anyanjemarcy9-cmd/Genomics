@@ -1,0 +1,5 @@
+*.fastq
+*.fastq.gz
+*.bam
+*.sam
+data/untrimmed_fastq/*.gz
