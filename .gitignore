@@ -1,3 +1,7 @@
+
+
+sub.tar.gz
+results/bcf/*.bcf
 *.fastq
 *.fastq.gz
 *.bam
